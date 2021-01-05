@@ -18,3 +18,4 @@ create 3 tables
 with phpMyAdmin:
 username: root
 password:(NULL)
+
